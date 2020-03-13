@@ -14,7 +14,7 @@ This is a template project to setup Express with Typescript.
 2. Download this template and extract or git clone this project
 
    ```bash
-   git clone <insert git link>
+   git clone https://github.com/ulaladungdung/express-typescript.git
    ```
 
 3. Install all dependencies
